@@ -1,0 +1,8 @@
+{
+  "name": "Helios Hand Control",
+  "description": "A real-time 3D solar system simulation controlled by hand gestures using MediaPipe, featuring AI-powered planetary insights via Google Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
